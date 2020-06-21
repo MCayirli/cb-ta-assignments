@@ -1,4 +1,6 @@
-import sys                                                        
+import sys
+
+# AÇIKLAMA SATIRI
                                                                    
 def default():                                                     
     print("hello")                                                       
